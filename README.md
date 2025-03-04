@@ -31,11 +31,5 @@
 
 ---
 
-### 🎀 Fun Fact
-```diff
-Favorite anime: Psycho-Pass, Death Note
-Favorite game: League Of Legends
-```
-
 🐱‍👤 Let's create something awesome together! 💻✨
 
