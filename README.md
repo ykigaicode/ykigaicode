@@ -1,4 +1,4 @@
-### ʕ•́ᴥ•̀ʔっ♡ Hello, world! I'm YkigaiCode! 💖
+### ʕ•́ᴥ•̀ʔっ♡ Hello world! I'm YkigaiCode! 💖
 
 ```diff
 🌸 Web & Mobile Developer | Cosplayer | Artist 🎨
